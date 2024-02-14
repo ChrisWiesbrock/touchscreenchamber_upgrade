@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-05a6939318f9f9919c6c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Hallway_GUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Hallway_GUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hallway_GUI-Debug-c917ea1858106336f700.json",
+					"name" : "Hallway_GUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hallway_GUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hallway_GUI_autogen-Debug-6a3378c1a0f20d44e7ed.json",
+					"name" : "Hallway_GUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hallway_GUI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hallway_GUI_autogen_timestamp_deps-Debug-ed671a15d6aa16354131.json",
+					"name" : "Hallway_GUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yousefi.BIOLOGIE2/Desktop/Project/Touch screen/Hallway/GUI/build-Hallway_GUI-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/yousefi.BIOLOGIE2/Desktop/Project/Touch screen/Hallway/GUI/Hallway_GUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
